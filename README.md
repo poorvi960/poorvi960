@@ -1,4 +1,5 @@
 ### Hi there I am poorvi👋
+i am studying in mca
 
 <!--
 **poorvi960/poorvi960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
